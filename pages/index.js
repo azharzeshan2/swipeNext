@@ -5,7 +5,7 @@ import SectionFour from "../components/SectionFour"
 import FIfthSection from "../components/FIfthSection"
 import SixCompo from "../components/SixCompo"
 import FooterLast from "../components/FooterLast"
-import Popsds from "../components/popsds"
+import PopDesk from "../components/PopDesk"
 import PopUpMB from "../components/PopUpMB"
 
 export default function Home() {
@@ -19,7 +19,7 @@ export default function Home() {
       <FIfthSection></FIfthSection>
       <SixCompo></SixCompo>
       <FooterLast></FooterLast>
-      <Popsds />
+      <PopDesk />
       <PopUpMB />
 
     </div>

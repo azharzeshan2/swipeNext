@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-const Popsds =() => {
+const PopDesk =() => {
     useEffect(() => {
         typeof window !== undefined && window?.addEventListener("scroll", () => {
     
@@ -44,4 +44,4 @@ const Popsds =() => {
     )
 }
 
-export default Popsds
+export default PopDesk
