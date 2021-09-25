@@ -39,13 +39,13 @@ function FooterLast() {
                                <h2 class="font-jost font-semibold text-xl md:text-base xl:text-xl lg:text-xl">Download SwipeYourBite op</h2>
                                <div class="flex flex-row flex-wrap justify-start items-center mt-4">
                                    <a target="_blank" rel="noreferrer" href="https://play.google.com/store/apps/details?id=com.SwipeYourBite.application">
-                                       <img className="mr-2 w-32 h-12" src="/GooglePlay.png" alt="google-play-icon" /></a>
+                                       <img className="mr-2 w-32 h-12" src="GooglePlay.a08f9a89.webp" alt="google-play-icon" /></a>
                                        <a target="_blank" rel="noreferrer" href="https://apps.apple.com/nl/app/swipeyourbite/id1532039668">
                                            <img className="mr-2 w-32 h-12"  src="/AppStore.png"  alt="app-store-icon" /></a>
                                            </div>
                                            </div>     
             </div>
-            <p class="font-jost font-bold text-sm text-center pb-4 mb-0">© dfdfdf Copyright 2021. Swipe Your Bite. Alle rechten voorbehouden. Privacy Policy &amp; Algemene voorwaarden.</p>
+            <p class="font-jost font-bold text-sm text-center pb-4 mb-0">© Copyright 2021. Swipe Your Bite. Alle rechten voorbehouden. Privacy Policy &amp; Algemene voorwaarden.</p>
         </footer>
     )
 }
