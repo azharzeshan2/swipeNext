@@ -45,7 +45,7 @@ function FooterLast() {
                                            </div>
                                            </div>     
             </div>
-            <p class="font-jost font-bold text-sm text-center pb-4 mb-0">© Copyright 2021. Swipe Your Bite. Alle rechten voorbehouden. Privacy Policy &amp; Algemene voorwaarden.</p>
+            <p class="font-jost font-bold text-sm text-center pb-4 mb-0">© dfdfdf Copyright 2021. Swipe Your Bite. Alle rechten voorbehouden. Privacy Policy &amp; Algemene voorwaarden.</p>
         </footer>
     )
 }
