@@ -18,7 +18,7 @@ function FIfthSection() {
                 <h1 className="font-bold text-lg text-center xl:text-left lg:text-left">Raak geïnspireerd</h1>
             </div>
             <div className="flex space-x-2 mt-4">
-                <img src="/GooglePlay.png" className="h-12 w-36" alt="" />
+                <img src="/GooglePlay.a08f9a89.webp" className="h-12 w-36" alt="" />
                 <img src="/AppStore.png" className="h-12 w-36" alt="" />
             </div>
         </div>
